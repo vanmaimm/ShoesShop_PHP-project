@@ -1,0 +1,25 @@
+.control-lable {
+    /* width: 160px; */
+    text-align: right;
+    /* margin-right: 15px;*/
+    margin-top: 20px; 
+}
+
+.control {
+    margin-top: 20px; 
+    width: 60%;
+    position: relative;
+    float: right;
+}
+
+.update {
+    margin-left: 180px;
+    margin-top: 15px;
+} 
+.note-red{
+color: red;
+}
+#loginbox,
+.signin-signup{
+color: black;
+}

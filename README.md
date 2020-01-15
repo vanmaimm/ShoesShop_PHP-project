@@ -1,1 +1,1 @@
-# ShoesShop_PHP-project
+# PHP-project
