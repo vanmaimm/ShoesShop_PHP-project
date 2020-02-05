@@ -3,7 +3,7 @@ File hướng dẫn
 
 Tài khoản admin:
 Admin: admin/
-password: 123453
+password: 123456
 
 Tài khoản user:
 Username: van.mai/
